@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RobotsApp/static/css/main.98e7f767.css",
+    "main.js": "/RobotsApp/static/js/main.01794f39.js",
+    "static/js/787.924567e0.chunk.js": "/RobotsApp/static/js/787.924567e0.chunk.js",
+    "index.html": "/RobotsApp/index.html",
+    "main.98e7f767.css.map": "/RobotsApp/static/css/main.98e7f767.css.map",
+    "main.01794f39.js.map": "/RobotsApp/static/js/main.01794f39.js.map",
+    "787.924567e0.chunk.js.map": "/RobotsApp/static/js/787.924567e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98e7f767.css",
+    "static/js/main.01794f39.js"
+  ]
+}
